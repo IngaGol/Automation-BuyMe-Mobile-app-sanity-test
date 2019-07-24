@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<config>
+  <PACKAGE>il.co.mintapp.buyme</PACKAGE>
+  <ACTIVITY>il.co.mintapp.buyme.activities.common.SplashScreen</ACTIVITY>
+  <REPORT_PATH>"C:\\Automation Learning\\Reports\\BuyMeAppReport.html"</REPORT_PATH>
+</config>
+
+
